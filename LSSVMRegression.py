@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+This is code is taken from https://github.com/DannyVanpoucke/LSSVMlib
+
+
 Created on Tue May 19 09:27:21 2020
 
 An LS-SVM regression class following the sk-learn API.
