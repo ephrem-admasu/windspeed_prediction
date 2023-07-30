@@ -3,4 +3,4 @@ This is part of our paper published in Arxvi. Wind pwoer is one of the most impo
 
 The overall diagram of the methodology of this work is given below:
 
-![Methodology](methedology_diag.png)
+![Methodology](methodology_diag.png)
